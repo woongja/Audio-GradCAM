@@ -1,0 +1,16 @@
+*.wav
+*.pt
+*.pth
+pytorch_grad_cam
+wav2vec2_vib.py
+__pycache__
+*.mp3
+PartialSpoof
+loss_metric.py
+xlsr.py
+wav2vec2_vib_gelu.py
+load_model.ipynb
+model_score
+ps
+grad_cam_bonafide_score.txt
+grad_cam_spoof_score.txt
